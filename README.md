@@ -22,7 +22,7 @@
         <img src="https://th.bing.com/th?id=OIP.eMLmzmhAqRMxUZad3zXE5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="no image" height="100px" width="100px">
     </figure>
     <figcaption>Picture1</figcaption>
-    <h1>Nivya</h1>
+    <h1>deepika</h1>
     <h2>Full Stack Developer</h2>
 </center>
 </section>
@@ -45,7 +45,7 @@
 <footer>
     <h2>Contact Details</h2>
     <p>Location: Coimbatore</p>
-    <p>Email id: nivya@gmail.com</p>
+    <p>Email id: deepika rameshkumar 7@gmail.com</p>
 </footer>
 </body>
 </html>
